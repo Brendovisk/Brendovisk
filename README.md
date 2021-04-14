@@ -3,4 +3,5 @@
 - 🔭 I’m currently unemployed :(
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/brendonfranco/
+- 🐧 I use Linux, POP_OS! to be more specific :)
 
