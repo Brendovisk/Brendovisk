@@ -1,8 +1,8 @@
 ## Hello, world 👋
  <div>
   <a href="https://github.com/brendovisk">
-  <img width="422px" src="https://github-readme-stats.vercel.app/api?username=brendovisk&show_icons=true&theme=vision-friendly-dark&border_radius=20&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="422px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovisk&layout=compact&langs_count=7&theme=vision-friendly-dark&border_radius=20&hide_border=true"/>
+  <img width="411px" src="https://github-readme-stats.vercel.app/api?username=brendovisk&show_icons=true&theme=vision-friendly-dark&border_radius=20&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="411px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovisk&layout=compact&langs_count=7&theme=vision-friendly-dark&border_radius=20&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
