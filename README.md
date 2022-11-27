@@ -1,8 +1,8 @@
 ## Hello, world 👋
  <div>
-  <a href="https://github.com/brendovisk" style="display: grid; grid-template-columns: 480px 350px; gap: 15px;">
-   <img width="411px" src="https://github-readme-stats.vercel.app/api?username=brendovisk&show_icons=true&theme=vision-friendly-dark&border_radius=20&hide_border=true&include_all_commits=true&count_private=true"/ style="width: 100%">
-   <img width="411px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovisk&layout=compact&langs_count=7&theme=vision-friendly-dark&border_radius=20&hide_border=true" style="width: 100%"/>
+  <a href="https://github.com/brendovisk">
+   <img width="485px" src="https://github-readme-stats.vercel.app/api?username=brendovisk&show_icons=true&theme=dracula&border_radius=20&hide_border=true&include_all_commits=true&count_private=true"/>
+   <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovisk&layout=compact&langs_count=7&theme=dracula&border_radius=20&hide_border=true"/>
   </a>
 </div>
 <div style="display: inline_block;"><br>
