@@ -1,8 +1,9 @@
 ## Hello, world 👋
  <div>
-  <a href="https://github.com/brendovisk" style="display: grid;grid-template-columns: 480px 350px;gap: 15px;">
-  <img width="411px" src="https://github-readme-stats.vercel.app/api?username=brendovisk&show_icons=true&theme=vision-friendly-dark&border_radius=20&hide_border=true&include_all_commits=true&count_private=true"/ style="width: 100%">
-  <img width="411px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovisk&layout=compact&langs_count=7&theme=vision-friendly-dark&border_radius=20&hide_border=true" style="width: 100%"/>
+  <a href="https://github.com/brendovisk" style="display: grid; grid-template-columns: 480px 350px; gap: 15px;">
+   <img width="411px" src="https://github-readme-stats.vercel.app/api?username=brendovisk&show_icons=true&theme=vision-friendly-dark&border_radius=20&hide_border=true&include_all_commits=true&count_private=true"/ style="width: 100%">
+   <img width="411px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovisk&layout=compact&langs_count=7&theme=vision-friendly-dark&border_radius=20&hide_border=true" style="width: 100%"/>
+  </a>
 </div>
 <div style="display: inline_block;"><br>
   <img align="center" alt="Javascript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
