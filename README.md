@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/brendovisk">
    <img width="485px" src="https://github-readme-stats.vercel.app/api?username=brendovisk&show_icons=true&theme=dracula&border_radius=20&hide_border=true&include_all_commits=true&count_private=true"/>
-   <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovisk&layout=compact&langs_count=7&theme=dracula&border_radius=20&hide_border=true"/>
+   <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovisk&layout=compact&langs_count=7&theme=dracula&border_radius=20&hide_border=true"/>
   </a>
 </div>
 <div style="display: inline_block;"><br>
