@@ -1,20 +1,20 @@
-## Hello, world 👋
- <div>
-  <a href="https://github.com/brendovisk">
-   <img width="465px" src="https://github-readme-stats.vercel.app/api?username=brendovisk&show_icons=true&theme=dracula&border_radius=20&hide_border=true&include_all_commits=true&count_private=true"/>
-   &nbsp;
-   <img width="308px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendovisk&layout=compact&langs_count=7&theme=dracula&border_radius=20&hide_border=true"/>
-  </a>
-</div>
-<div style="display: inline_block;"><br>
-  <img align="center" alt="Javascript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:brendon.francoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brendonfranco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+ Greetings, everyone!
+</p>
+
+<p align="left">
+  I'm Brendon, hailing from the vibrant heart of São Paulo, where I navigate the digital world as a front-end developer. Armed with a versatile arsenal of technologies, including <strong>Typescript</strong>, <strong>React</strong>, <strong>Laravel</strong>, <strong>PHP</strong>, <strong>AWS</strong>  and others.
+</p>
+
+<p aling="left">
+  And, in case you're wondering, I proudly: I use arch btw!
+</p>
+
+<p align="left">
+  <a href="mailto:contact@brends.me" title="Email">
+  <img src="https://img.shields.io/badge/-Email-141E4A?style=flat-square&labelColor=141E4A&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Email"/></a>
+  <a href="https://linkedin.com/in/brendonfranco" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
