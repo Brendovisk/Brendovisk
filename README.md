@@ -9,7 +9,7 @@
 </p>
 
 <p aling="left">
-  And, in case you're wondering, I proudly: I use arch btw!
+  And, in case you're wondering, I proudly say: I use arch btw!
 </p>
 
 <p align="left">
