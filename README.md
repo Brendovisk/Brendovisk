@@ -13,8 +13,6 @@
 </p>
 
 <p align="left">
-  <a href="mailto:contact@brends.me" title="Email">
-  <img src="https://img.shields.io/badge/-Email-141E4A?style=flat-square&labelColor=141E4A&logo=gmail&logoColor=white&link=mailto:contact@brends.me" alt="Email"/></a>
   <a href="https://linkedin.com/in/brendonfranco" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brendonfranco" alt="LinkedIn"/></a>
 </p>
