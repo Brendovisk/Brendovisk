@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**Brendovisk/Brendovisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+ Greetings, everyone!
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  I'm Brendon, hailing from the vibrant heart of São Paulo, where I navigate the digital world as a front-end developer. Armed with a versatile arsenal of technologies, including <strong>Typescript</strong>, <strong>React</strong>, <strong>Laravel</strong>, <strong>PHP</strong>, <strong>AWS</strong>  and others.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p aling="left">
+  And, in case you're wondering, I proudly say: I use arch btw!
+</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/brendonfranco" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brendonfranco" alt="LinkedIn"/></a>
+</p>
