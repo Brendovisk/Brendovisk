@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  I'm Brendon, hailing from the vibrant heart of São Paulo, where I navigate the digital world as a front-end developer. Armed with a versatile arsenal of technologies, including <strong>Typescript</strong>, <strong>React</strong>, <strong>Laravel</strong>, <strong>PHP</strong>, <strong>AWS</strong>  and others.
+ I'm Brendon. I usually build websites and apps using React, Next, Typescript, Tailwind, Laravel, and so on.
 </p>
 
 <p aling="left">
-  And, in case you're wondering, I proudly say: I use arch btw!
+  When I'm not working, I'm likely enjoying a good cup of coffee! 💻☕
 </p>
 
 <p align="left">
