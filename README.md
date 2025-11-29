@@ -9,7 +9,8 @@
 </p>
 
 <p aling="left">
-  When I'm not working, I'm likely enjoying a good cup of coffee! 💻☕
+  When I'm not working, I'm likely enjoying a good cup of coffee! </br />
+ 💻 ☕
 </p>
 
 <p align="left">
